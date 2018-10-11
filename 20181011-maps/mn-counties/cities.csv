@@ -1,0 +1,15 @@
+NAME,TIER,LAT,LONG,DX,DY,ANCHOR
+Rochester,2,44.0258,-92.4732,-10,6,end
+Duluth,2,46.7804,-92.1171,-10,6,end
+Twin Cities,1,44.9645,-93.2682,-10,6,end
+Moorhead,3,46.8738,-96.7678,10,6,start
+International Falls,3,48.6023,-93.4041,0,20,middle
+Bemidji,3,47.4716,-94.8827,0,15,middle
+Marshall,3,44.4484,-95.7912,0,15,middle
+Brainerd,3,46.3527,-94.2020,0,15,middle
+St. Cloud,3,45.5579,-94.1632,0,15,middle
+Ely,4,47.9032,-91.8671,0,12,middle
+Mankato,4,44.1636,-93.9994,-10,6,end
+Thief River Falls,4,48.1191,-96.1811,0,15,middle
+Willmar,4,45.1224,-95.0487,0,15,middle
+Hibbing,4,47.4272,-92.9377,0,15,middle
